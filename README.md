@@ -469,3 +469,51 @@ Remember:
 ## Contributing
 
 Feel free to submit issues and enhancement requests!
+
+## Downloadable Learning Resources 📚
+
+### Programming PDF Collections
+Access our comprehensive collection of programming resources through Google Drive. These folders contain valuable learning materials for various technologies:
+
+[📂 Access Complete Programming Resources](https://drive.google.com/drive/u/0/folders/1kI9_pOGoX55Ie4abQ0zHs1QgmxZYuhVN)
+
+Available Topics Include:
+- **Core Programming Languages**
+  - Python Resources
+  - JavaScript Materials
+  - Java Documentation
+  - C/C++ Guides
+  - Ruby Learning Materials
+  - PHP Resources
+  - Swift Guides
+
+- **Web Development**
+  - HTML5 Resources
+  - CSS Tutorials
+  - Front-End Development
+  - Back-End Development
+  - Angular Documentation
+  
+- **Mobile Development**
+  - Android Development
+  - iOS Development
+  
+- **Specialized Topics**
+  - Algorithms & Data Structures
+  - Database Management
+  - Linux Administration
+  - Arduino Projects
+  - Raspberry Pi Guides
+  - MATLAB Resources
+  
+- **Microsoft Technologies**
+  - C# Programming
+  - .NET Framework
+  
+### How to Use the Resources
+1. Click on the Google Drive link above
+2. Browse through the organized folders
+3. Download the materials you need
+4. Materials are regularly updated and maintained
+
+⚠️ Note: These materials are for educational purposes. Please respect copyright and licensing terms when using these resources.
